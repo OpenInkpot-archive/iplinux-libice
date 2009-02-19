@@ -1,3 +1,12 @@
+commit 2f41ddb3a917c4e71184452b68561a15593d33b8
+Author: Paulo Cesar Pereira de Andrade <pcpa@mandriva.com.br>
+Date:   Tue Jan 6 17:25:25 2009 -0200
+
+    Update .gitignore.
+    
+      Don't warn about files left after a build and/or make distcheck
+    in 'git status -a'.
+
 commit ab9dff549534c6d7b33f440bff7a841d60c1206c
 Author: Peter Breitenlohner <peb@mppmu.mpg.de>
 Date:   Mon Dec 8 18:45:44 2008 +0100
