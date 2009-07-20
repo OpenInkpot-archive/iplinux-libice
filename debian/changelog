@@ -1,3 +1,9 @@
+libice (2:1.0.5-1) asimov; urgency=low
+
+  * IPlinux port
+
+ -- Yauhen Kharuzhy <jekhor@gmail.com>  Mon, 20 Jul 2009 20:36:07 +0300
+
 libice (2:1.0.5-1) unstable; urgency=low
 
   [ Brice Goglin ]
