@@ -11,8 +11,8 @@ Build-Depends:
  automake,
  libtool,
  xutils-dev (>= 1:7.4+4)
-XCS-Cross-Host-Build-Depends: debhelper (>= 5.0.0), quilt, pkg-config, automake, libtool, xutils-dev (>= 1:7.4+3)
-XCS-Cross-Build-Depends: x11proto-core-dev, xtrans-dev (>= 1.0.1-1),
+XCS-Cross-Host-Build-Depends: debhelper (>= 5.0.0), quilt, pkg-config, automake, libtool, xorg-util-macros, xtrans-dev (>= 1.0.1-1)
+XCS-Cross-Build-Depends: x11proto-core-dev
 Standards-Version: 3.7.3
 Vcs-Git: git://git.debian.org/git/pkg-xorg/lib/libice
 Vcs-Browser: http://git.debian.org/?p=pkg-xorg/lib/libice.git
